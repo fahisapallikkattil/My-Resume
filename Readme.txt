@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+This is my portfolio
+*********************
+Portfolio URL: https://fahisapallikkattil.github.io/My-Resume/
+Author: Fahisa Pallikkattil
 
-Template Name: Fahisa
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
